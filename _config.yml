@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-PE"
+title                    : ""Jorge Condeña Llantoy""
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name ""Jorge Condeña Llantoy""
+description              : &description "Bachelor of Arts in Economics. Currently doing personal projects related to data science, tech, behavioral finance and stock market."
+url                      : https://condehub5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "condehub5/condehub5.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  profile.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jorge Condeña Llantoy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Bachelor in Economics interested in topics of data science, behavioral economics and public policy"
+  location         : "Lima-Perú"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : a20122145@pucp.pe
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "condehub5"
   google_plus      :
   keybase          :
   instagram        :
@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posters:
+    output: true
+    permalink: /:collection/:path/
+  sources:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +250,22 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _posters
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _sources
+  - scope:
+      path: ""
+      type: sources
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -255,7 +277,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Lima # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones /added change of timezone
 
 
 # Plugins
@@ -265,6 +287,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jemoji #introduje gem 'jemoji' el 9/04 (bundle 'jemoji')
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
