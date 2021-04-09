@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-PE"
-title                    : ""Jorge Condeña Llantoy""
+title                    : "Jorge Condeña Llantoy"
 title_separator          : "-"
-name                     : &name ""Jorge Condeña Llantoy""
+name                     : &name "Jorge Condeña Llantoy"
 description              : &description "Bachelor of Arts in Economics. Currently doing personal projects related to data science, tech, behavioral finance and stock market."
 url                      : https://condehub5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
