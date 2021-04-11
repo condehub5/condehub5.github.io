@@ -247,7 +247,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single #cambiado de talk a single
       author_profile: true
       share: true
   # _posters
