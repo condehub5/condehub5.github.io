@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Bachelor in Economics at Pontificia Universidad Católica del Perú (PUCP). This is my personal webpage, which was designed with the use of Jekyll and hosted with the help of GitHub pages.
+Welcome! I have a degree in Bachelor of Arts in Economics at Pontificia Universidad Católica del Perú (PUCP). This is my personal webpage, which was designed with the use of Jekyll and hosted with the help of GitHub pages.
 
 I am interested in applied economics, mainly in topics like data science, public policy and computer science. For that reason, my webpage contains a blog section where I will be writing several posts about topics of my aforementioned interests. These posts could be useful for readers interested in those topics. Since my mother tongue is spanish, mostly of my posts will be written in spanish. However, I also expect to write in english language. If you are interested in a post not written in english language, just contact me via e-mail and I will provide you the spanish version.
 
