@@ -15,7 +15,7 @@ This section of my blog is composed of different learning resources that I have 
  - [Learn Git Branching](https://learngitbranching.js.org/?locale=es_AR): a useful platform for learning how to branch in Git.
  - [Git create branch](https://www.datree.io/resources/git-create-branch): A good tutorial to understand and create branchs.
  - [Clone a Github Repository on Your Computer](https://www.jcchouinard.com/clone-github-repository-on-windows/): A good tutorial to understand how to clone a repo. 
- - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html): A beatiful explanation of Git written by Tom Preston-Werner, founder of Github. 
+ - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html): A beatiful explanation of Git functionalities written by Tom Preston-Werner, founder of Github. 
  - [Aprende Git](https://aprendegit.com/): An illustrative blog in spanish about different Git topics.
  - [Entiende, instala y configura Git](https://desarrolloweb.com/articulos/entiende-instala-configura-git.html): In case that you are lost and know nothing about Git and Github, this guide is for you (in spanish language).  
  - [Alias de Git](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Alias-de-Git): It is very common that once you have a better handling of Git commands, these begin to be more cumbersome to facilitate your workflow. The Git Aliases help you to improve your workflow by shortening your commands through shortcuts (in spanish language).
