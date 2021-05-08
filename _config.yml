@@ -190,7 +190,7 @@ collections:
   posters:
     output: true
     permalink: /:collection/:path/
-  sources:
+  resources:
     output: true
     permalink: /:collection/:path/
 
@@ -258,10 +258,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _sources
+  # _resources
   - scope:
       path: ""
-      type: sources
+      type: resources
     values:
       layout: single
       author_profile: true
