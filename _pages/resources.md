@@ -21,3 +21,12 @@ This section of my blog is composed of different learning resources that I have 
  - [Alias de Git](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Alias-de-Git): It is very common that once you have a better handling of Git commands, these begin to be more cumbersome to facilitate your workflow. The Git Aliases help you to improve your workflow by shortening your commands through shortcuts (in spanish language).
  - [Git commands data scientists use on a day-to-day basis](https://towardsdatascience.com/git-commands-data-scientists-use-on-a-day-to-day-basis-40d588cd63f7): A good tutorial for data scientists working with teams that use a control version software when coding all the day and are required to save their work progress.
  - [What is Git](https://backlog.com/git-tutorial/what-is-git/): This link summaries in a great way what is Git and have a good graph to understand why Git is important for workteams when making changes in programming code.
+
+### R (Markdown)
+ - [Introducción a RMarkdown](https://mpaulacaldas.github.io/r-ladies-rmarkdown/#1): This is a truly useful guide when initiating in **R markdown**. It shows you different functionalities for slide reporting with Rmarkdown.
+
+ - [Free themes for Bootstrap](https://bootswatch.com/3/): This provides free different samples to change HTML report styles from knitr **R markdown**.
+ 
+ - [Tips and tricks for working with images and figures in R Markdown documents](http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/): A great webpage which gives tips and tricks when working with images and figures for **R markdown** documents.
+
+ - [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/#text_formating): Another webpage that provides useful tips when stylizing our **R markdown** documents.
